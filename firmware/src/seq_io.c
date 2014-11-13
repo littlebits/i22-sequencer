@@ -2,7 +2,6 @@
  * seq_io.c
  *
  * Created: 11/6/2013 11:28:18 AM
- *  Author: Rory
  *
  * Copyright 2014 littleBits Electronics
  *

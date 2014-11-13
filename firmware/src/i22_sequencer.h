@@ -2,7 +2,6 @@
  * i22_sequencer.h
  *
  * Created: 11/6/2013 11:16:02 AM
- *  Author: Rory
  *
  * Copyright 2014 littleBits Electronics
  *

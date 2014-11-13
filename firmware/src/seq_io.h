@@ -2,7 +2,6 @@
  * seq_io.h
  *
  * Created: 11/1/2013 2:19:24 PM
- *  Author: Rory
  *
  * Copyright 2014 littleBits Electronics
  *
